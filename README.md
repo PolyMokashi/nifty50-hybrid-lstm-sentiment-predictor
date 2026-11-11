@@ -38,5 +38,5 @@ The models were evaluated on the testing split (20% of the dataset) and compared
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/swarpya/nifty50-hybrid-lstm-sentiment-predictor.git](https://github.com/swarpya/nifty50-hybrid-lstm-sentiment-predictor.git)
+git clone [https://github.com/PolyMokashi/nifty50-hybrid-lstm-sentiment-predictor.git](https://github.com/swarpya/nifty50-hybrid-lstm-sentiment-predictor.git)
 cd nifty50-hybrid-lstm-sentiment-predictor
